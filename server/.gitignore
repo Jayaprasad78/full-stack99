@@ -1,22 +1,19 @@
 # dependencies
-/node_modules/
-
-# production build output
-/build/
-
-# environment variables
-.env
-
-# logs
-/logs/
-
-# IDEs and editors
-/.idea/
-/.vscode/
+/node_modules
 
 # OS generated files
 .DS_Store
-Thumbs.db
 
-# misc
-npm-debug.log*
+# IDEs
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# npm configuration
+.npmrc
+
+# Logs
+logs/
+log.txt

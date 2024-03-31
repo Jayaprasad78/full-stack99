@@ -1,0 +1,19 @@
+# dependencies
+/node_modules
+
+# compiled output
+/dist
+
+# IDEs
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+
+# environment-specific configurations
+environment.ts
+environment.prod.ts
+
+# Log files
+*.log
